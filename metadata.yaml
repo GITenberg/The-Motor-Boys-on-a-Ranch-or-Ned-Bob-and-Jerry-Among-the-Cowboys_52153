@@ -1,0 +1,35 @@
+_repo: The-Motor-Boys-on-a-Ranch-or-Ned-Bob-and-Jerry-Among-the-Cowboys_52153
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Owen, Robert Emmett
+    alias: Owen, R. Emmett (Robert Emmett)
+    birthdate: 1878
+    deathdate: 1957
+    gutenberg_agent_id: '5821'
+    url: http://www.gutenberg.org/2009/agents/5821
+creator:
+  author:
+    agent_name: Young, Clarence
+    gutenberg_agent_id: '1632'
+    url: http://www.gutenberg.org/2009/agents/1632
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_Young
+description: ''
+gutenberg_issued: '2016-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cattle stealing -- Juvenile fiction'
+- !lcsh 'Automobiles -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Ranches -- Juvenile fiction'
+- !lcsh 'Cowboys -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- GITenberg
+title: The Motor Boys on a Ranch; or, Ned, Bob and Jerry Among the Cowboys
+url: http://www.gutenberg.org/ebooks/52153
